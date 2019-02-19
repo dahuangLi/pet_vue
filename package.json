@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "element-ui": "^2.5.4",
     "mint-ui": "^2.2.13",
     "strip-ansi": "^5.0.0",
     "vue": "^2.5.2",
